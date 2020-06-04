@@ -1,0 +1,3 @@
+DirectoryIndex bbs.py form.css bbs2.py form.html
+
+AddHandler cgi-script .py
