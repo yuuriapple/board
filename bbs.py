@@ -83,6 +83,7 @@ def main():
     </html>
      """ )
 
+    #リダイレクト
     if(method == 'post'and not name == "" and not message ==""):
         source = textwrap.dedent( '''
         <html>
