@@ -1,9 +1,0 @@
-[submodule "testpage/themes/hello-friend-ng"]
-	path = testpage/themes/hello-friend-ng
-	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
-[submodule "yuuriapple.github.io/themes/hello-friend-ng"]
-	path = yuuriapple.github.io/themes/hello-friend-ng
-	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
-[submodule "blog/themes/hello-friend-ng"]
-	path = blog/themes/hello-friend-ng
-	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
