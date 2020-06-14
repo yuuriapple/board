@@ -15,8 +15,6 @@ def main():
     cgitb.enable()
     import sys
 
-    print("Hello, world!")
-
     import textwrap
     import datetime
 
